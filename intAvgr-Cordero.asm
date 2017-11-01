@@ -1,6 +1,5 @@
 TITLE "Integer Averaging"     (intAvgr-Cordero.asm)
 ; Author: Ava Cordero
-; Course / Project ID: CS271 Program 6A		Date: 12/3/2016
 ; Description: Gets 10 valid integers from the user and stores the numeric
 ;   values in an array. Displays the integers, their sum, and their average.
 
